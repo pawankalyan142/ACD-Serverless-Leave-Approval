@@ -1,6 +1,6 @@
 {
-    "CognitoUserPoolDomain":"pawankalyan123432",
+    "CognitoUserPoolDomain":"accdemoia",
     "Region":"us-east-1",
-    "S3BucketName":"leaveapplication142-website-hosting-bucket",
-    "StackName":"leaveapplication142-application-stack"
+    "S3BucketName":"acd-demo-la-website-hosting-bucket",
+    "StackName":"acd-demo-la-leave-application-stack"
 }
